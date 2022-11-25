@@ -9,6 +9,7 @@ sites:
     url: https://cracked.io
   - name: Sinister
     url: https://sinister.ly
+    __dangerous__disable_verify_peer: true
   - name: Bhf
     url: https://bhf.im
   - name: ChitaChok
