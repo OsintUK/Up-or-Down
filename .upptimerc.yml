@@ -9,8 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Nulled
     url: https://nulled.to
   - name: Cracked
