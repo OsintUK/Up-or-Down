@@ -4,19 +4,19 @@
     "url": "onlinecombilist.blogsport.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "onlinecombolist",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
-    "time": 656,
-    "timeDay": 656,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "93.40%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "93.40%",
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2022-11-25": 1
+      "2022-11-25": 6
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 1050,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "amauta.cc",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amauta",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1440,
-    "timeDay": 1440,
-    "timeWeek": 1440,
-    "timeMonth": 1440,
-    "timeYear": 1440,
+    "status": "up",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
+    "time": 1217,
+    "timeDay": 1217,
+    "timeWeek": 1217,
+    "timeMonth": 1217,
+    "timeYear": 1217,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 6
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 306,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -199,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "breached-to",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
     }
   },
   {
@@ -218,26 +218,6 @@
     "url": "breached.up",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "breached-up",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-25": 89
-    }
-  },
-  {
-    "name": "Brianclub",
-    "url": "Briansclub.cards",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "brianclub",
     "status": "down",
     "uptime": "0.02%",
     "uptimeDay": "0.02%",
@@ -250,7 +230,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
+    }
+  },
+  {
+    "name": "Brianclub",
+    "url": "Briansclub.cards",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "brianclub",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-25": 95
     }
   },
   {
@@ -277,26 +277,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-shops",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-25": 89
-    }
-  },
-  {
-    "name": "Chopings",
-    "url": "Chopings.cc",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "chopings",
-    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
     "uptimeWeek": "0.01%",
@@ -308,7 +288,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 89
+      "2022-11-25": 95
+    }
+  },
+  {
+    "name": "Chopings",
+    "url": "Chopings.cc",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "chopings",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-25": 95
     }
   }
 ]
