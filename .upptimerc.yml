@@ -11,6 +11,22 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Nulled
+    url: https://nulled.to
+  - name: Cracked
+    url: https://cracked.io
+  - name: Sinister
+    url: https://sinister.ly
+  - name: Bhf
+    url: https://bhf.im
+  - name: ChitaChok
+    url: https://chitachok.fun 
+  - name: CrackingItaly
+    url: https://crackingitaly.to
+  - name: Patched
+    url: https://patched.to
+  - name: CrdClub
+    url: https://crdclub.su
   
      
      
