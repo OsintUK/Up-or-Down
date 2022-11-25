@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "0.84%",
-    "uptimeDay": "0.84%",
-    "uptimeWeek": "0.84%",
-    "uptimeMonth": "0.84%",
-    "uptimeYear": "0.84%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 2
+      "2022-11-25": 16
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/nulled.to.ico",
     "slug": "nulled",
-    "status": "down",
-    "uptime": "4.61%",
-    "uptimeDay": "4.61%",
-    "uptimeWeek": "4.61%",
-    "uptimeMonth": "4.61%",
-    "uptimeYear": "4.61%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "2.00%",
+    "uptimeDay": "2.00%",
+    "uptimeWeek": "2.00%",
+    "uptimeMonth": "2.00%",
+    "uptimeYear": "2.00%",
+    "time": 538,
+    "timeDay": 538,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 14
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sinister.ly.ico",
     "slug": "sinister",
     "status": "down",
-    "uptime": "7.21%",
-    "uptimeDay": "7.21%",
-    "uptimeWeek": "7.21%",
-    "uptimeMonth": "7.21%",
-    "uptimeYear": "7.21%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 14
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/patched.to.ico",
     "slug": "patched",
     "status": "down",
-    "uptime": "9.94%",
-    "uptimeDay": "9.94%",
-    "uptimeWeek": "9.94%",
-    "uptimeMonth": "9.94%",
-    "uptimeYear": "9.94%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 351,
     "timeDay": 351,
     "timeWeek": 351,
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 14
     }
   },
   {
