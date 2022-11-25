@@ -3,9 +3,8 @@ owner: OsintUK
 repo: Up-or-Down
 
 sites:
-
-   - name: Nulled
-     url: nulled.to
+  - name: Nulled
+     url: https://nulled.to
    - name: 
      url: cracked.io
    - name: 
