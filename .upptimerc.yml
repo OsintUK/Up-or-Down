@@ -3,18 +3,38 @@ owner: OsintUK
 repo: Up-or-Down
 
 sites:
-  - name: Breached
-    url: https://breached.to
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Reddit
-    url: https://reddit.com
+    -name: Onlinecombolist
+     url: onlinecombilist.blogsport.com
+    -name: cweb
+     url: cweb.ws
+    -name: ufolabs
+     url: ufolabs.ru
+    -name: disboard
+     url: disboard.org
+    -name: Infected-zone
+     url: infected-zone.com
+    -name: Accountbot
+     url: accountbot.io
+     -name: Amauta
+     url: amauta.cc
+     -name: Bigfat
+     url: bigfat.cc
+     -name: Bitorder
+     url: Bitorder.ru
+     -name: BlackHatCarding
+     url: blackhatcarding.is
+     -name: Breached.to
+     url: Breached.to
+     -name: Breached.up
+     url: breached.up
+     -name: Brianclub
+     url: Briansclub.cards
+     -name: Ccbases
+     url: ccbases.ru
+     -name: CcShops
+     url: ccshops.sale
+     -name: Chopings
+     url: Chopings.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
