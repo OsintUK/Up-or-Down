@@ -3,37 +3,37 @@ owner: OsintUK
 repo: Up-or-Down
 
 sites:
-    -name: Onlinecombolist
+   - name: Onlinecombolist
      url: onlinecombilist.blogsport.com
-    -name: cweb
+   - name: cweb
      url: cweb.ws
-    -name: ufolabs
+   - name: ufolabs
      url: ufolabs.ru
-    -name: disboard
+   - name: disboard
      url: disboard.org
-    -name: Infected-zone
+   - name: Infected-zone
      url: infected-zone.com
-    -name: Accountbot
+   - name: Accountbot
      url: accountbot.io
-     -name: Amauta
+   - name: Amauta
      url: amauta.cc
-     -name: Bigfat
+   - name: Bigfat
      url: bigfat.cc
-     -name: Bitorder
+   - name: Bitorder
      url: Bitorder.ru
-     -name: BlackHatCarding
+   - name: BlackHatCarding
      url: blackhatcarding.is
-     -name: Breached.to
+   - name: Breached.to
      url: Breached.to
-     -name: Breached.up
+   - name: Breached.up
      url: breached.up
-     -name: Brianclub
+   - name: Brianclub
      url: Briansclub.cards
-     -name: Ccbases
+   - name: Ccbases
      url: ccbases.ru
-     -name: CcShops
+   - name: CcShops
      url: ccshops.sale
-     -name: Chopings
+   - name: Chopings
      url: Chopings.cc
 
 status-website:
