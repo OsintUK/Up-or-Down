@@ -58,18 +58,20 @@
     "url": "https://nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/nulled.to.ico",
     "slug": "nulled",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 973,
-    "timeWeek": 973,
-    "timeMonth": 973,
-    "timeYear": 973,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 759,
+    "timeDay": 759,
+    "timeWeek": 759,
+    "timeMonth": 759,
+    "timeYear": 759,
+    "dailyMinutesDown": {
+      "2022-11-25": 0
+    }
   },
   {
     "name": "Cracked",
@@ -106,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 17
+      "2022-11-25": 21
     }
   },
   {
@@ -169,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/patched.to.ico",
     "slug": "patched",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 234,
     "timeDay": 234,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-11-25": 17
+      "2022-11-25": 21
     }
   },
   {
