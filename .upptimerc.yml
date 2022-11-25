@@ -3,12 +3,6 @@ owner: OsintUK
 repo: Up-or-Down
 delay: 2000
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Nulled
     url: https://nulled.to
   - name: Cracked
@@ -25,8 +19,28 @@ sites:
     url: https://patched.to
   - name: CrdClub
     url: https://crdclub.su
-  - name: 
-    url: https://chopings.cc
+  - name: Nohide
+    url: https://nohide.space
+  - name: DarkNetWeb
+    url: https://darknetweb.ru
+  - name: CCCCC
+    url: https://ccccc.sb
+  - name: Moon
+    url: https://moon.sb
+  - name: Cracking
+    url: https://cracking.org
+  - name: Shellix
+    url: https://shellix.xyz
+  - name: Cracked.sx
+    url: https://cracked.sx 
+  - name: Crackia
+    url: https://crackia.com
+  - name: NulledBB
+    url: https://nulledbb.com 
+  - name: Pastebin
+    url: https://pastebin 
+  - name: FssQuad
+    url: https://fssquad.com 
   
      
      
