@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nulled.to.ico",
     "slug": "nulled",
     "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "98.90%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "uptime": "71.98%",
+    "uptimeDay": "71.98%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "71.98%",
+    "uptimeYear": "71.98%",
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2022-11-25": 0
+      "2022-11-25": 8
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1318,
-    "timeDay": 1318,
-    "timeWeek": 1318,
-    "timeMonth": 1318,
-    "timeYear": 1318,
+    "time": 1475,
+    "timeDay": 1475,
+    "timeWeek": 1475,
+    "timeMonth": 1475,
+    "timeYear": 1475,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-25": 21
+      "2022-11-25": 29
     }
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1865,
-    "timeDay": 1865,
-    "timeWeek": 1865,
-    "timeMonth": 1865,
-    "timeYear": 1865,
+    "time": 1876,
+    "timeDay": 1876,
+    "timeWeek": 1876,
+    "timeMonth": 1876,
+    "timeYear": 1876,
     "dailyMinutesDown": {}
   },
   {
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2302,
-    "timeDay": 2302,
-    "timeWeek": 2302,
-    "timeMonth": 2302,
-    "timeYear": 2302,
+    "time": 2465,
+    "timeDay": 2465,
+    "timeWeek": 2465,
+    "timeMonth": 2465,
+    "timeYear": 2465,
     "dailyMinutesDown": {}
   },
   {
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1982,
-    "timeDay": 1982,
-    "timeWeek": 1982,
-    "timeMonth": 1982,
-    "timeYear": 1982,
+    "time": 1656,
+    "timeDay": 1656,
+    "timeWeek": 1656,
+    "timeMonth": 1656,
+    "timeYear": 1656,
     "dailyMinutesDown": {}
   },
   {
@@ -176,13 +176,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-11-25": 21
+      "2022-11-25": 29
     }
   },
   {
@@ -196,11 +196,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1677,
-    "timeDay": 1677,
-    "timeWeek": 1677,
-    "timeMonth": 1677,
-    "timeYear": 1677,
+    "time": 1756,
+    "timeDay": 1756,
+    "timeWeek": 1756,
+    "timeMonth": 1756,
+    "timeYear": 1756,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Chopings",
+    "url": "https://chopings.cc",
+    "icon": "https://icons.duckduckgo.com/ip3/chopings.cc.ico",
+    "slug": "chopings",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-25": 246
+    }
   }
 ]
