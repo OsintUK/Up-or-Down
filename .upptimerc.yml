@@ -20,6 +20,7 @@ sites:
     url: https://crackingitaly.to
   - name: Patched
     url: https://patched.to
+    __dangerous__insecure: true
   - name: CrdClub
     url: https://crdclub.su
   - name: Nohide
