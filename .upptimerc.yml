@@ -11,7 +11,7 @@ sites:
     url: https://cracked.io
   - name: Sinister
     url: https://sinister.ly
-    __dangerous__disable_verify_host: true
+    __dangerous__insecure: true
   - name: Bhf
     url: https://bhf.im
   - name: ChitaChok
