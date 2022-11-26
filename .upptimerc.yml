@@ -33,7 +33,7 @@ sites:
     url: http://moon.sb
   - name: Cracking
     url: https://cracking.org
-     __dangerous__insecure: true
+    __dangerous__insecure: true
   - name: Shellix
     url: https://shellix.xyz
   - name: Cracked.sx
