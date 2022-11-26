@@ -5,6 +5,8 @@ delay: 2000
 sites:
   - name: Nulled
     url: https://nulled.to
+  - name: Amauta
+    url: https://amauta.cc
   - name: Cracked
     url: https://cracked.io
   - name: Sinister
