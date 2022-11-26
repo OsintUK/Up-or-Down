@@ -20,7 +20,6 @@ sites:
     url: https://crackingitaly.to
   - name: Patched
     url: https://patched.to
-    __dangerous__insecure: true
   - name: CrdClub
     url: https://crdclub.su
   - name: Nohide
@@ -31,9 +30,8 @@ sites:
     url: https://ccccc.sb
   - name: Moon
     url: http://moon.sb
-  - name: Cracking Test
-    check: "tcp-ping"
-    url: https://cracking.org
+  - name: Cracking
+    url: https://cracking.org/
   - name: Shellix
     url: https://shellix.xyz
   - name: Cracked.sx
