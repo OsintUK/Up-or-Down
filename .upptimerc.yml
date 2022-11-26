@@ -31,9 +31,10 @@ sites:
     url: https://ccccc.sb
   - name: Moon
     url: http://moon.sb
-  - name: Cracking
+  - name: Cracking Test
+    check: "tcp-ping"
     url: https://cracking.org
-    __dangerous__insecure: true
+    port: 53
   - name: Shellix
     url: https://shellix.xyz
   - name: Cracked.sx
