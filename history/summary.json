@@ -4,19 +4,19 @@
     "url": "https://nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/nulled.to.ico",
     "slug": "nulled",
-    "status": "down",
-    "uptime": "55.34%",
-    "uptimeDay": "55.34%",
-    "uptimeWeek": "55.34%",
-    "uptimeMonth": "55.34%",
-    "uptimeYear": "55.34%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "status": "up",
+    "uptime": "46.20%",
+    "uptimeDay": "46.20%",
+    "uptimeWeek": "46.20%",
+    "uptimeMonth": "46.20%",
+    "uptimeYear": "46.20%",
+    "time": 776,
+    "timeDay": 776,
+    "timeWeek": 776,
+    "timeMonth": 776,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2022-11-26": 17,
+      "2022-11-26": 52,
       "2022-11-25": 60
     }
   },
@@ -25,7 +25,7 @@
     "url": "https://amauta.cc",
     "icon": "https://icons.duckduckgo.com/ip3/amauta.cc.ico",
     "slug": "amauta",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 2912,
     "timeYear": 2912,
     "dailyMinutesDown": {
-      "2022-11-26": 6,
+      "2022-11-26": 7,
       "2022-11-25": 190
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://cracked.io",
     "icon": "https://icons.duckduckgo.com/ip3/cracked.io.ico",
     "slug": "cracked",
-    "status": "down",
-    "uptime": "90.21%",
-    "uptimeDay": "90.21%",
-    "uptimeWeek": "90.21%",
-    "uptimeMonth": "90.21%",
-    "uptimeYear": "90.21%",
-    "time": 987,
-    "timeDay": 987,
-    "timeWeek": 987,
-    "timeMonth": 987,
-    "timeYear": 987,
+    "status": "up",
+    "uptime": "74.84%",
+    "uptimeDay": "74.84%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "74.84%",
+    "uptimeYear": "74.84%",
+    "time": 1015,
+    "timeDay": 1015,
+    "timeWeek": 1015,
+    "timeMonth": 1015,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2022-11-26": 17
+      "2022-11-26": 52
     }
   },
   {
@@ -67,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sinister.ly.ico",
     "slug": "sinister",
     "status": "up",
-    "uptime": "18.12%",
-    "uptimeDay": "18.12%",
-    "uptimeWeek": "18.12%",
-    "uptimeMonth": "18.12%",
-    "uptimeYear": "18.12%",
+    "uptime": "32.61%",
+    "uptimeDay": "32.61%",
+    "uptimeWeek": "32.61%",
+    "uptimeMonth": "32.61%",
+    "uptimeYear": "32.61%",
     "time": 1279,
     "timeDay": 1279,
     "timeWeek": 1279,
@@ -152,7 +152,7 @@
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-11-26": 21,
+      "2022-11-26": 58,
       "2022-11-25": 150
     }
   },
@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nohide.space.ico",
     "slug": "nohide",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-11-26": 21,
+      "2022-11-26": 58,
       "2022-11-25": 79
     }
   },
@@ -248,7 +248,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-26": 21,
+      "2022-11-26": 58,
       "2022-11-25": 79
     }
   },
@@ -269,7 +269,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-11-26": 21,
+      "2022-11-26": 58,
       "2022-11-25": 79
     }
   },
@@ -326,7 +326,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-11-26": 21,
+      "2022-11-26": 58,
       "2022-11-25": 79
     }
   },
@@ -354,11 +354,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pastebin.com.ico",
     "slug": "pastebin",
     "status": "up",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
+    "uptime": "27.19%",
+    "uptimeDay": "27.19%",
+    "uptimeWeek": "27.19%",
+    "uptimeMonth": "27.19%",
+    "uptimeYear": "27.19%",
     "time": 293,
     "timeDay": 293,
     "timeWeek": 293,
