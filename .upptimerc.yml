@@ -34,7 +34,6 @@ sites:
   - name: Cracking Test
     check: "tcp-ping"
     url: https://cracking.org
-    port: 80
   - name: Shellix
     url: https://shellix.xyz
   - name: Cracked.sx
