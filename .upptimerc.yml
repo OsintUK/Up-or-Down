@@ -51,8 +51,9 @@ sites:
     url: https://ufolabs.net
   - name: BlackHatHacking
     url: http://blackhathacking.is
-  
-     
+
+headers:
+      - "User-Agent: uptime"     
      
 
 status-website:
