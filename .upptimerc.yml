@@ -30,7 +30,7 @@ sites:
   - name: CCCCC
     url: https://ccccc.sb
   - name: Moon
-    url: https://moon.sb
+    url: http://moon.sb
   - name: Cracking
     url: https://cracking.org
   - name: Shellix
