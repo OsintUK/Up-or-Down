@@ -5,13 +5,10 @@ delay: 2000
 sites:
   - name: Nulled
     url: https://nulled.to
-  - name: Amauta
-    url: https://amauta.cc
   - name: Cracked
     url: https://cracked.io
   - name: Sinister
     url: https://sinister.ly
-    __dangerous__insecure: true
   - name: Bhf
     url: https://bhf.im
   - name: ChitaChok
@@ -46,8 +43,6 @@ sites:
     url: https://fssquad.com 
   - name: UfoLabs
     url: https://ufolabs.net
-  - name: BlackHatHacking
-    url: http://blackhathacking.is
 
 headers:
       - "User-Agent: uptime"     
