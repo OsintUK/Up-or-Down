@@ -1,6 +1,7 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
+
 sites:
   - name: Nulled
     url: https://nulled.to
@@ -14,11 +15,7 @@ sites:
     url: https://chitachok.fun 
   - name: CrackingItaly
     url: https://crackingitaly.to
-  
-
-headers:
-        
-     
+ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
