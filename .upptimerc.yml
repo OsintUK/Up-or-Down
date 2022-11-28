@@ -15,37 +15,10 @@ sites:
     url: https://chitachok.fun 
   - name: CrackingItaly
     url: https://crackingitaly.to
-  - name: Patched
-    url: https://patched.to
-  - name: CrdClub
-    url: https://crdclub.su
-  - name: Nohide
-    url: https://nohide.space
-  - name: DarkNetWeb
-    url: https://darknetweb.ru
-  - name: CCCCC
-    url: https://ccccc.sb
-  - name: Moon
-    url: http://moon.sb
-  - name: Cracking
-    url: https://cracking.org/
-  - name: Shellix
-    url: https://shellix.xyz
-  - name: Cracked.sx
-    url: https://cracked.sx 
-  - name: Crackia
-    url: https://crackia.com
-  - name: NulledBB
-    url: https://nulledbb.com 
-  - name: Pastebin
-    url: https://pastebin.com
-  - name: FssQuad
-    url: https://fssquad.com 
-  - name: UfoLabs
-    url: https://ufolabs.net
+  
 
 headers:
-      - "User-Agent: uptime"     
+      - "User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"     
      
 
 status-website:
