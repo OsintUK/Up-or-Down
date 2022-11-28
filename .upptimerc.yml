@@ -9,6 +9,7 @@ sites:
     url: https://cracked.io
   - name: Sinister
     url: https://sinister.ly
+    maxResponseTime: 3000
   - name: Bhf
     url: https://bhf.im
   - name: ChitaChok
