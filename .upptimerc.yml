@@ -5,21 +5,33 @@ repo: Up-or-Down
 sites:
   - name: Nulled
     url: https://nulled.to
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: Cracked
     url: https://cracked.io
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: Sinister
     url: https://sinister.ly
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: Bhf
     url: https://bhf.im
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: ChitaChok
-    url: https://chitachok.fun 
+    url: https://chitachok.fun
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: CrackingItaly
     url: https://crackingitaly.to
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
     
 # Identification purposes on API
