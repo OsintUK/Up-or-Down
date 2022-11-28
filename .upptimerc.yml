@@ -14,7 +14,7 @@ sites:
       - 200
     maxResponseTime: 5000
   - name: Sinister
-    url: https://www.sinister.ly
+    url: https://www.sinister.ly/
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
