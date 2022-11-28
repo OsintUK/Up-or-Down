@@ -21,6 +21,18 @@ sites:
   - name: CrackingItaly
     url: https://crackingitaly.to
     maxResponseTime: 5000
+    
+# Identification purposes on API
+user-agent: "Up-or-Down/0.1.2021 (repo: https://github.com/upptime/upptime; integration: upptime)"
+
+# Workflow schedules
+workflowSchedule:
+  responseTime: "*/10 * * * *"
+  staticSite: "*/30 * * * *"
+  summary: "0 */1 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/30 * * * *"
+  uptime: "*/15 * * * *"
  
 
 status-website:
