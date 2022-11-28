@@ -5,16 +5,22 @@ repo: Up-or-Down
 sites:
   - name: Nulled
     url: https://nulled.to
+    maxResponseTime: 5000
   - name: Cracked
     url: https://cracked.io
+    maxResponseTime: 5000
   - name: Sinister
     url: https://sinister.ly
+    maxResponseTime: 5000
   - name: Bhf
     url: https://bhf.im
+    maxResponseTime: 5000
   - name: ChitaChok
     url: https://chitachok.fun 
+    maxResponseTime: 5000
   - name: CrackingItaly
     url: https://crackingitaly.to
+    maxResponseTime: 5000
  
 
 status-website:
