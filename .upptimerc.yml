@@ -1,7 +1,6 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
-delay: 2000
 sites:
   - name: Nulled
     url: https://nulled.to
