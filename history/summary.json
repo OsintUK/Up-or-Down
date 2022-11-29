@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nulled.to.ico",
     "slug": "nulled",
     "status": "up",
-    "uptime": "72.57%",
+    "uptime": "72.58%",
     "uptimeDay": "68.42%",
-    "uptimeWeek": "72.57%",
-    "uptimeMonth": "72.57%",
-    "uptimeYear": "72.57%",
+    "uptimeWeek": "72.58%",
+    "uptimeMonth": "72.58%",
+    "uptimeYear": "72.58%",
     "time": 1003,
     "timeDay": 991,
     "timeWeek": 1003,
@@ -73,9 +73,9 @@
     "url": "https://bhf.im",
     "icon": "https://icons.duckduckgo.com/ip3/bhf.im.ico",
     "slug": "bhf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,7 +84,9 @@
     "timeWeek": 1844,
     "timeMonth": 1844,
     "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   },
   {
     "name": "ChitaChok",
