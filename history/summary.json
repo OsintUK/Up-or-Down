@@ -12,7 +12,7 @@
     "uptimeYear": "94.39%",
     "time": 1029,
     "timeDay": 0,
-    "timeWeek": 1015,
+    "timeWeek": 1011,
     "timeMonth": 1029,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -55,12 +55,12 @@
     "status": "up",
     "uptime": "92.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "92.18%",
     "time": 1774,
     "timeDay": 0,
-    "timeWeek": 1886,
+    "timeWeek": 1896,
     "timeMonth": 1774,
     "timeYear": 1774,
     "dailyMinutesDown": {
@@ -312,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nulledbb.com.ico",
     "slug": "nulled-bb",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "17.42%",
+    "uptimeDay": "17.42%",
+    "uptimeWeek": "17.42%",
+    "uptimeMonth": "17.42%",
+    "uptimeYear": "17.42%",
     "time": 1396,
     "timeDay": 1657,
     "timeWeek": 1657,
@@ -332,17 +332,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/onlinecombilist.blogsport.com.ico",
     "slug": "online-combolist-blogsport",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "33.90%",
+    "uptimeDay": "33.90%",
+    "uptimeWeek": "33.90%",
+    "uptimeMonth": "33.90%",
+    "uptimeYear": "33.90%",
     "time": 704,
     "timeDay": 704,
     "timeWeek": 704,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 15
+    }
   },
   {
     "name": "Cwebs",
@@ -361,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37
+      "2022-12-07": 53
     }
   },
   {
@@ -449,8 +451,8 @@
     "slug": "amauta",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "36.19%",
+    "uptimeWeek": "36.19%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3979,
@@ -459,6 +461,7 @@
     "timeMonth": 3979,
     "timeYear": 3979,
     "dailyMinutesDown": {
+      "2022-12-07": 15,
       "2022-11-28": 604,
       "2022-11-27": 773,
       "2022-11-26": 171,
@@ -518,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37,
+      "2022-12-07": 52,
       "2022-11-26": 145,
       "2022-11-25": 367
     }
@@ -561,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37,
+      "2022-12-07": 52,
       "2022-11-26": 145,
       "2022-11-25": 366
     }
@@ -583,7 +586,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37
+      "2022-12-07": 52
     }
   },
   {
@@ -603,7 +606,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37
+      "2022-12-07": 52
     }
   },
   {
@@ -623,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 37,
+      "2022-12-07": 52,
       "2022-11-26": 145,
       "2022-11-25": 366
     }
@@ -699,7 +702,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-12-07": 37
+      "2022-12-07": 52
     }
   },
   {
@@ -737,7 +740,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-12-07": 37
+      "2022-12-07": 52
     }
   },
   {
@@ -883,7 +886,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 36
+      "2022-12-07": 49
     }
   },
   {
@@ -1173,7 +1176,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2022-12-07": 36
+      "2022-12-07": 52
     }
   },
   {
@@ -1373,7 +1376,7 @@
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-12-07": 36
+      "2022-12-07": 51
     }
   },
   {
@@ -1795,18 +1798,20 @@
     "url": "https://accsmarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/accsmarket.com.ico",
     "slug": "accs-market",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 11370,
-    "timeDay": 11370,
-    "timeWeek": 11370,
-    "timeMonth": 11370,
-    "timeYear": 11370,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "77.76%",
+    "uptimeDay": "77.76%",
+    "uptimeWeek": "77.76%",
+    "uptimeMonth": "77.76%",
+    "uptimeYear": "77.76%",
+    "time": 5815,
+    "timeDay": 5815,
+    "timeWeek": 5815,
+    "timeMonth": 5815,
+    "timeYear": 5815,
+    "dailyMinutesDown": {
+      "2022-12-07": 5
+    }
   },
   {
     "name": "B117",
@@ -1843,7 +1848,7 @@
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-12-07": 35
+      "2022-12-07": 50
     }
   },
   {
@@ -2061,7 +2066,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2022-12-07": 35
+      "2022-12-07": 50
     }
   },
   {
@@ -2099,7 +2104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 35
+      "2022-12-07": 50
     }
   },
   {
@@ -2137,7 +2142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 35
+      "2022-12-07": 50
     }
   },
   {
@@ -2265,7 +2270,7 @@
     "timeMonth": 905,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 50
     }
   },
   {
@@ -2285,7 +2290,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 50
     }
   },
   {
@@ -2377,7 +2382,7 @@
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 49
     }
   },
   {
@@ -2397,7 +2402,7 @@
     "timeMonth": 496,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 49
     }
   },
   {
@@ -2435,7 +2440,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 49
     }
   },
   {
@@ -2833,7 +2838,7 @@
     "timeMonth": 5681,
     "timeYear": 5681,
     "dailyMinutesDown": {
-      "2022-12-07": 34
+      "2022-12-07": 49
     }
   },
   {
@@ -2979,7 +2984,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2022-12-07": 33
+      "2022-12-07": 49
     }
   },
   {
@@ -3107,7 +3112,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2022-12-07": 33
+      "2022-12-07": 48
     }
   },
   {
@@ -3253,7 +3258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 33
+      "2022-12-07": 48
     }
   },
   {
@@ -3345,7 +3350,7 @@
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-12-07": 33
+      "2022-12-07": 48
     }
   },
   {
@@ -3365,7 +3370,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-12-07": 32
+      "2022-12-07": 47
     }
   },
   {
@@ -3385,7 +3390,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 32
+      "2022-12-07": 47
     }
   },
   {
@@ -3531,7 +3536,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-12-07": 32
+      "2022-12-07": 47
     }
   },
   {
@@ -3821,7 +3826,7 @@
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-12-07": 32
+      "2022-12-07": 47
     }
   },
   {
@@ -3841,7 +3846,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-12-07": 32
+      "2022-12-07": 47
     }
   },
   {
@@ -4095,7 +4100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   },
   {
@@ -4115,7 +4120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   },
   {
@@ -4135,7 +4140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   },
   {
@@ -4155,7 +4160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   },
   {
@@ -4175,7 +4180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   },
   {
@@ -4231,7 +4236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 31
+      "2022-12-07": 46
     }
   }
 ]
