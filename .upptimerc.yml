@@ -1,7 +1,7 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
-#hello
+
 sites:
   - name: Cracked
     url: https://cracked.io
