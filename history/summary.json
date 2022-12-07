@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cracked.io.ico",
     "slug": "cracked",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.60%",
-    "uptimeMonth": "94.49%",
-    "uptimeYear": "94.49%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "94.50%",
     "time": 1030,
     "timeDay": 1084,
-    "timeWeek": 979,
+    "timeWeek": 975,
     "timeMonth": 1030,
     "timeYear": 1030,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sinister.ly.ico",
     "slug": "sinister",
     "status": "up",
-    "uptime": "93.18%",
+    "uptime": "93.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "93.18%",
+    "uptimeMonth": "93.19%",
+    "uptimeYear": "93.19%",
     "time": 1456,
     "timeDay": 1612,
     "timeWeek": 1612,
@@ -53,14 +53,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/crackingitaly.to.ico",
     "slug": "cracking-italy",
     "status": "up",
-    "uptime": "92.32%",
+    "uptime": "92.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.35%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "92.32%",
+    "uptimeMonth": "92.33%",
+    "uptimeYear": "92.33%",
     "time": 1787,
     "timeDay": 2424,
-    "timeWeek": 1682,
+    "timeWeek": 1690,
     "timeMonth": 1787,
     "timeYear": 1787,
     "dailyMinutesDown": {
@@ -76,18 +76,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/breached.to.ico",
     "slug": "breach-to",
     "status": "up",
-    "uptime": "72.14%",
-    "uptimeDay": "72.14%",
-    "uptimeWeek": "72.14%",
-    "uptimeMonth": "72.14%",
-    "uptimeYear": "72.14%",
+    "uptime": "73.68%",
+    "uptimeDay": "73.68%",
+    "uptimeWeek": "73.68%",
+    "uptimeMonth": "73.68%",
+    "uptimeYear": "73.68%",
     "time": 2022,
     "timeDay": 2022,
     "timeWeek": 2022,
     "timeMonth": 2022,
     "timeYear": 2022,
     "dailyMinutesDown": {
-      "2022-12-07": 88
+      "2022-12-07": 89
     }
   },
   {
@@ -96,11 +96,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/patched.to.ico",
     "slug": "patched",
     "status": "up",
-    "uptime": "6.38%",
+    "uptime": "12.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "6.38%",
-    "uptimeYear": "6.38%",
+    "uptimeMonth": "12.39%",
+    "uptimeYear": "12.39%",
     "time": 176,
     "timeDay": 233,
     "timeWeek": 233,
@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nohide.space.ico",
     "slug": "nohide",
     "status": "up",
-    "uptime": "28.68%",
+    "uptime": "33.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.68%",
-    "uptimeYear": "28.68%",
+    "uptimeMonth": "33.25%",
+    "uptimeYear": "33.25%",
     "time": 164,
     "timeDay": 152,
     "timeWeek": 152,
@@ -174,18 +174,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ccccc.sb.ico",
     "slug": "ccccc",
     "status": "degraded",
-    "uptime": "5.20%",
-    "uptimeDay": "31.13%",
-    "uptimeWeek": "31.13%",
-    "uptimeMonth": "5.20%",
-    "uptimeYear": "5.20%",
+    "uptime": "4.86%",
+    "uptimeDay": "29.13%",
+    "uptimeWeek": "29.13%",
+    "uptimeMonth": "4.86%",
+    "uptimeYear": "4.86%",
     "time": 12690,
     "timeDay": 16232,
     "timeWeek": 16232,
     "timeMonth": 12690,
     "timeYear": 12690,
     "dailyMinutesDown": {
-      "2022-12-07": 216,
+      "2022-12-07": 238,
       "2022-11-28": 63,
       "2022-11-26": 18
     }
@@ -197,8 +197,8 @@
     "slug": "moon",
     "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "31.28%",
-    "uptimeWeek": "31.28%",
+    "uptimeDay": "29.27%",
+    "uptimeWeek": "29.27%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 9231,
@@ -207,7 +207,7 @@
     "timeMonth": 9231,
     "timeYear": 9231,
     "dailyMinutesDown": {
-      "2022-12-07": 216,
+      "2022-12-07": 238,
       "2022-11-26": 145,
       "2022-11-25": 79
     }
@@ -259,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shellix.xyz.ico",
     "slug": "shellix",
     "status": "up",
-    "uptime": "75.28%",
-    "uptimeDay": "75.28%",
-    "uptimeWeek": "75.28%",
-    "uptimeMonth": "75.28%",
-    "uptimeYear": "75.28%",
+    "uptime": "70.45%",
+    "uptimeDay": "70.45%",
+    "uptimeWeek": "70.45%",
+    "uptimeMonth": "70.45%",
+    "uptimeYear": "70.45%",
     "time": 285,
     "timeDay": 267,
     "timeWeek": 267,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-12-07": 78
+      "2022-12-07": 99
     }
   },
   {
@@ -297,11 +297,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crackia.com.ico",
     "slug": "crackia",
     "status": "up",
-    "uptime": "28.80%",
+    "uptime": "33.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "28.80%",
-    "uptimeYear": "28.80%",
+    "uptimeMonth": "33.38%",
+    "uptimeYear": "33.38%",
     "time": 117,
     "timeDay": 170,
     "timeWeek": 170,
@@ -318,11 +318,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nulledbb.com.ico",
     "slug": "nulled-bb",
     "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
+    "uptime": "94.28%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "94.28%",
     "time": 1411,
     "timeDay": 1483,
     "timeWeek": 1483,
@@ -337,17 +337,17 @@
     "url": "http://onlinecombilist.blogsport.com",
     "icon": "https://icons.duckduckgo.com/ip3/onlinecombilist.blogsport.com.ico",
     "slug": "online-combolist-blogsport",
-    "status": "down",
-    "uptime": "8.37%",
-    "uptimeDay": "8.37%",
-    "uptimeWeek": "8.37%",
-    "uptimeMonth": "8.37%",
-    "uptimeYear": "8.37%",
-    "time": 1326,
-    "timeDay": 1326,
-    "timeWeek": 1326,
-    "timeMonth": 1326,
-    "timeYear": 1326,
+    "status": "up",
+    "uptime": "14.26%",
+    "uptimeDay": "14.26%",
+    "uptimeWeek": "14.26%",
+    "uptimeMonth": "14.26%",
+    "uptimeYear": "14.26%",
+    "time": 1289,
+    "timeDay": 1289,
+    "timeWeek": 1289,
+    "timeMonth": 1289,
+    "timeYear": 1289,
     "dailyMinutesDown": {
       "2022-12-07": 288
     }
@@ -369,7 +369,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343
+      "2022-12-07": 365
     }
   },
   {
@@ -455,17 +455,17 @@
     "url": "https://amauta.cc",
     "icon": "https://icons.duckduckgo.com/ip3/amauta.cc.ico",
     "slug": "amauta",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "25.00%",
-    "uptimeWeek": "25.00%",
+    "uptimeDay": "29.82%",
+    "uptimeWeek": "29.82%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3947,
-    "timeDay": 3476,
-    "timeWeek": 3476,
-    "timeMonth": 3947,
-    "timeYear": 3947,
+    "time": 3913,
+    "timeDay": 3278,
+    "timeWeek": 3278,
+    "timeMonth": 3913,
+    "timeYear": 3913,
     "dailyMinutesDown": {
       "2022-12-07": 236,
       "2022-11-28": 604,
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343,
+      "2022-12-07": 365,
       "2022-11-26": 145,
       "2022-11-25": 367
     }
@@ -539,8 +539,8 @@
     "slug": "breached-to",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "72.18%",
-    "uptimeWeek": "72.18%",
+    "uptimeDay": "73.97%",
+    "uptimeWeek": "73.97%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1573,
@@ -571,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343,
+      "2022-12-07": 365,
       "2022-11-26": 145,
       "2022-11-25": 366
     }
@@ -593,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343
+      "2022-12-07": 365
     }
   },
   {
@@ -613,7 +613,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343
+      "2022-12-07": 365
     }
   },
   {
@@ -633,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 343,
+      "2022-12-07": 365,
       "2022-11-26": 145,
       "2022-11-25": 366
     }
@@ -709,7 +709,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2022-12-07": 343
+      "2022-12-07": 364
     }
   },
   {
@@ -747,7 +747,7 @@
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-12-07": 343
+      "2022-12-07": 364
     }
   },
   {
@@ -882,11 +882,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/altenens.is.ico",
     "slug": "altenens",
     "status": "down",
-    "uptime": "84.41%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "84.41%",
-    "uptimeMonth": "84.41%",
-    "uptimeYear": "84.41%",
+    "uptime": "85.41%",
+    "uptimeDay": "85.41%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "85.41%",
+    "uptimeYear": "85.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1118,18 +1118,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/novara.biz.ico",
     "slug": "novara",
     "status": "up",
-    "uptime": "67.95%",
-    "uptimeDay": "67.95%",
-    "uptimeWeek": "67.95%",
-    "uptimeMonth": "67.95%",
-    "uptimeYear": "67.95%",
+    "uptime": "63.55%",
+    "uptimeDay": "63.55%",
+    "uptimeWeek": "63.55%",
+    "uptimeMonth": "63.55%",
+    "uptimeYear": "63.55%",
     "time": 2451,
     "timeDay": 2451,
     "timeWeek": 2451,
     "timeMonth": 2451,
     "timeYear": 2451,
     "dailyMinutesDown": {
-      "2022-12-07": 100
+      "2022-12-07": 122
     }
   },
   {
@@ -1185,7 +1185,7 @@
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-12-07": 342
+      "2022-12-07": 364
     }
   },
   {
@@ -1385,7 +1385,7 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2022-12-07": 342
+      "2022-12-07": 364
     }
   },
   {
@@ -1855,7 +1855,7 @@
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-12-07": 341
+      "2022-12-07": 363
     }
   },
   {
@@ -2073,7 +2073,7 @@
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-12-07": 341
+      "2022-12-07": 362
     }
   },
   {
@@ -2111,7 +2111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 341
+      "2022-12-07": 362
     }
   },
   {
@@ -2149,7 +2149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2277,7 +2277,7 @@
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2297,7 +2297,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2389,7 +2389,7 @@
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2409,7 +2409,7 @@
     "timeMonth": 552,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2447,7 +2447,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-12-07": 340
+      "2022-12-07": 362
     }
   },
   {
@@ -2744,18 +2744,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/comboforum.com.ico",
     "slug": "combo-forum",
     "status": "up",
-    "uptime": "60.96%",
-    "uptimeDay": "60.96%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "60.96%",
-    "uptimeYear": "60.96%",
+    "uptime": "60.60%",
+    "uptimeDay": "60.60%",
+    "uptimeWeek": "60.60%",
+    "uptimeMonth": "60.60%",
+    "uptimeYear": "60.60%",
     "time": 3023,
     "timeDay": 3023,
     "timeWeek": 3023,
     "timeMonth": 3023,
     "timeYear": 3023,
     "dailyMinutesDown": {
-      "2022-12-07": 121
+      "2022-12-07": 131
     }
   },
   {
@@ -2782,18 +2782,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crdforum.cc.ico",
     "slug": "crd-forum",
     "status": "up",
-    "uptime": "28.33%",
-    "uptimeDay": "28.33%",
-    "uptimeWeek": "28.33%",
-    "uptimeMonth": "28.33%",
-    "uptimeYear": "28.33%",
+    "uptime": "26.46%",
+    "uptimeDay": "26.46%",
+    "uptimeWeek": "26.46%",
+    "uptimeMonth": "26.46%",
+    "uptimeYear": "26.46%",
     "time": 1204,
     "timeDay": 1204,
     "timeWeek": 1204,
     "timeMonth": 1204,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2022-12-07": 222
+      "2022-12-07": 244
     }
   },
   {
@@ -2820,18 +2820,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dumpsbuy.su.ico",
     "slug": "dumps-buy",
     "status": "up",
-    "uptime": "66.35%",
-    "uptimeDay": "66.35%",
-    "uptimeWeek": "66.35%",
-    "uptimeMonth": "66.35%",
-    "uptimeYear": "66.35%",
+    "uptime": "61.96%",
+    "uptimeDay": "61.96%",
+    "uptimeWeek": "61.96%",
+    "uptimeMonth": "61.96%",
+    "uptimeYear": "61.96%",
     "time": 5508,
     "timeDay": 5508,
     "timeWeek": 5508,
     "timeMonth": 5508,
     "timeYear": 5508,
     "dailyMinutesDown": {
-      "2022-12-07": 104
+      "2022-12-07": 126
     }
   },
   {
@@ -2851,7 +2851,7 @@
     "timeMonth": 4365,
     "timeYear": 4365,
     "dailyMinutesDown": {
-      "2022-12-07": 339
+      "2022-12-07": 361
     }
   },
   {
@@ -2997,7 +2997,7 @@
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-12-07": 339
+      "2022-12-07": 361
     }
   },
   {
@@ -3125,7 +3125,7 @@
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-12-07": 339
+      "2022-12-07": 361
     }
   },
   {
@@ -3271,7 +3271,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 338
+      "2022-12-07": 360
     }
   },
   {
@@ -3363,7 +3363,7 @@
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-12-07": 338
+      "2022-12-07": 360
     }
   },
   {
@@ -3383,7 +3383,7 @@
     "timeMonth": 183,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2022-12-07": 338
+      "2022-12-07": 360
     }
   },
   {
@@ -3403,7 +3403,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 338
+      "2022-12-07": 360
     }
   },
   {
@@ -3549,7 +3549,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-12-07": 338
+      "2022-12-07": 360
     }
   },
   {
@@ -3839,7 +3839,7 @@
     "timeMonth": 583,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-12-07": 337
+      "2022-12-07": 359
     }
   },
   {
@@ -3859,7 +3859,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-12-07": 337
+      "2022-12-07": 359
     }
   },
   {
@@ -4012,11 +4012,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.me.ico",
     "slug": "telegram-card1ng-planet",
     "status": "up",
-    "uptime": "93.61%",
-    "uptimeDay": "93.61%",
-    "uptimeWeek": "93.61%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "93.61%",
+    "uptime": "94.04%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "94.04%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
@@ -4032,11 +4032,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.me.ico",
     "slug": "telegram-cardinggclub",
     "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "93.97%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "93.97%",
+    "uptime": "94.37%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "94.37%",
+    "uptimeYear": "94.37%",
     "time": 741,
     "timeDay": 741,
     "timeWeek": 741,
@@ -4052,11 +4052,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.me.ico",
     "slug": "telegram-freshstuff-88",
     "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "94.45%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "94.45%",
+    "uptime": "94.82%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "94.82%",
     "time": 221,
     "timeDay": 221,
     "timeWeek": 221,
@@ -4119,7 +4119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 337
+      "2022-12-07": 359
     }
   },
   {
@@ -4139,7 +4139,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 337
+      "2022-12-07": 359
     }
   },
   {
@@ -4159,7 +4159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 336
+      "2022-12-07": 359
     }
   },
   {
@@ -4179,7 +4179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 336
+      "2022-12-07": 359
     }
   },
   {
@@ -4199,7 +4199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 336
+      "2022-12-07": 358
     }
   },
   {
@@ -4255,7 +4255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-07": 336
+      "2022-12-07": 358
     }
   }
 ]
