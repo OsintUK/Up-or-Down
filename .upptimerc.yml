@@ -5,15 +5,9 @@ repo: Up-or-Down
 sites:
   - name: Cracked
     url: https://cracked.io
-    expectedStatusCodes:
-      - 200
-      - 403
     maxResponseTime: 3000
   - name: Sinister
     url: http://sinister.ly/index.php
-    expectedStatusCodes:
-      - 200
-      - 403
     __dangerous__disable_verify_peer: true
     maxResponseTime: 3000
   - name: CrackingItaly
