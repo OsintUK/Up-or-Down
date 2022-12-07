@@ -1,7 +1,7 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
-
+#test1
 sites:
   - name: Cracked
     url: https://cracked.io
@@ -47,14 +47,12 @@ sites:
     url: https://ccccc.sb
     expectedStatusCodes:
       - 200
-      - 403
-    maxResponseTime: 1000  
+      - 403 
   - name: Moon
     url: http://moon.sb
     expectedStatusCodes:
       - 200
-      - 403
-    maxResponseTime: 1000  
+      - 403 
   - name: Cracking
     url: https://cracking.org
     expectedStatusCodes:
