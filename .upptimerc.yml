@@ -182,6 +182,7 @@ sites:
     expectedStatusCodes:
        - 200
        - 403
+       - 503
     maxResponseTime: 3000   
   - name: lolz
     url: https://lolz.guru
