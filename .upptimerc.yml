@@ -246,6 +246,7 @@ sites:
     expectedStatusCodes:
        - 200
        - 403   
+    maxResponseTime: 3000
   - name: CraxPro
     url: https://craxpro.io 
     expectedStatusCodes:
