@@ -3,48 +3,1178 @@ owner: OsintUK
 repo: Up-or-Down
 
 sites:
-  - name: Nulled
-    url: https://nulled.to
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: Cracked
     url: https://cracked.io
     expectedStatusCodes:
       - 200
-    maxResponseTime: 5000
+      - 403
+    delay: 2000 # Delay of 2 seconds between sites**
   - name: Sinister
-    url: https://www.sinister.ly/
+    url: http://sinister.ly/index.php
     expectedStatusCodes:
       - 200
-    maxResponseTime: 5000
-  - name: Bhf
-    url: https://bhf.im
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: ChitaChok
-    url: https://chitachok.fun
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
+      - 403
+    __dangerous__disable_verify_peer: true
+    delay: 2000 # Delay of 2 seconds between sites**
   - name: CrackingItaly
-    url: https://crackingitaly.to
+    url: https://crackingitaly.to 
     expectedStatusCodes:
       - 200
-    maxResponseTime: 5000
+      - 403
+    delay: 2000 # Delay of 2 seconds between sites**
+  - name: Breach to
+    url: https://breached.to/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Patched
+    url: https://patched.to
+    expectedStatusCodes:
+      - 200
+      - 403
+    __dangerous__disable_verify_peer: true
+  - name: CrdClub
+    url: https://crdclub.su
+  - name: Nohide
+    url: https://nohide.space
+    expectedStatusCodes:
+      - 200
+      - 403
+    __dangerous__disable_verify_peer: true
+  - name: DarkNetWeb
+    url: https://darknetweb.ru
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: CCCCC 
+    url: https://ccccc.sb
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Moon
+    url: http://moon.sb
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Cracking
+    url: https://cracking.org
+    expectedStatusCodes:
+      - 200
+      - 403
+    __dangerous__disable_verify_peer: true
+  - name: Telegago
+    url: https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0
+    expectedStatusCodes:
+       - 200
+       - 403 
+  - name: Shellix
+    url: https://shellix.xyz
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Cracked.sx
+    url: https://cracked.sx 
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Crackia
+    url: https://crackia.com
+    expectedStatusCodes:
+      - 200
+      - 403
+    __dangerous__disable_verify_peer: true
+  - name: NulledBB
+    url: https://nulledbb.com
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: OnlineCombolist.Blogsport
+    url: http://onlinecombilist.blogsport.com
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Cwebs
+    url: https://cweb.ws
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Ufolabs
+    url: https://ufolabs.net
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Disboard
+    url: https://disboard.org
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Infected-zone
+    url: https://Infected-zone.com
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: AcountBot
+    url: https://accountbot.io
+    expectedStatusCodes:
+      - 200
+      - 403 
+  - name: Amauta
+    url: https://amauta.cc
+    expectedStatusCodes:
+      - 200
+      - 403 
+  - name: BigFat
+    url: https://bigfat.cc
+    expectedStatusCodes:
+      - 200
+      - 403  
+  - name: BitOrder
+    url: http://Bitorder.ru
+    expectedStatusCodes:
+      - 200
+      - 403  
+  - name: BlackHatCarding
+    url: https://blackhatcarding.is
+    expectedStatusCodes:
+      - 200
+      - 403  
+  - name: Breached.to
+    url: https://Breached.to
+    expectedStatusCodes:
+      - 200
+      - 403 
+  - name: breached.up
+    url: https://breached.up
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: CCshops
+    url: https://ccshops.sale
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: BriansClub
+    url: https://Briansclub.cards
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Chopings
+    url: https://Chopings.cc
+    expectedStatusCodes:
+      - 200
+      - 403 
+  - name: Darknet
+    url: https://darknet.ug
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Fssquad
+    url: https://fssquad.com
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: Bitify
+    url: https://bitify.com
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: Criminalz
+    url: https://criminalz.org/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: lolz
+    url: https://lolz.guru
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Vlmi
+    url: https://vlmi.ws
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: OpenCard
+    url: https://opencard.top
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Xreactor
+    url: https://xreactor.org
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 503
+       - 403   
+  - name: CrackingX
+    url: https://crackingx.com
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: BdfClub
+    url: https://bdfclub.com
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: DrDark
+    url: https://drdark.ru
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: CrackingHits
+    url: https://crackinghits.to
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: ForumTeam
+    url: https://forumteam.top
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Altenens
+    url: https://altenens.is/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: CraxPro
+    url: https://craxpro.io 
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: DarkNet
+    url: http://darknet.tw
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Dark-time
+    url: https://dark-time.com
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Cashoutgod
+    url: https://cashoutgod.ru
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: CyberNulled
+    url: https://cybernulled.com
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Gerki
+    url: https://gerki.pw
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Niflheim
+    url: https://niflheim.top
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: X-Slayer
+    url: https://x-slayer.fun
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Illegals
+    url: https://illegals.online
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: LeetForums
+    url: https://leetforums.ru
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: EmailPass
+    url: https://emailpass.xyz
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: NoobsCracking
+    url: https://noobscracking.weebly.com
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: Novara
+    url: https://novara.biz
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: V3rmillion
+    url: https://v3rmillion.net
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: CrackingAll
+    url: https://crackingall.com
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: Selkis
+    url: https://selkis.online/
+    __dangerous__disable_verify_host: true
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: HackPortals
+    url: https://hackportals.org
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: CrackerTeam
+    url: https://crackerteam.com/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 503
+       - 403         
+  - name: CrimeMarket
+    url: https://crimemarket.is/
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: DarkHack
+    url: https://darkhack.org
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: CrackingIsland
+    url: https://crackingisland.com
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: Lumix
+    url: https://lumix.live
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: OpenBullet Shop
+    url: https://openbullet.shop
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: VoidForum
+    url: https://voidforum.com
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: BuyCVVdumps
+    url: https://buycvvdumps.org
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: CardingLeaks
+    url: https://cardingleaks.ws
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: CrackerMain
+    url: https://crackermain.com
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: DemonForums
+    url: https://demonforums.net
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: Hackonology
+    url: https://hackonology.com
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: LeakForum
+    url: https://leakforum.org
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: LeakZone
+    url: https://leakzone.net
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: LearnToCrack
+    url: https://learntocrack.com
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: LegitCarder
+    url: https://legitcarder.ru
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: Orvx
+    url: https://orvx.pw
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: Shoppy
+    url: https://shoppy.gg
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: SinfulSite
+    url: https://sinfulsite.com 
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: AnonFiles
+    url: https://anonfiles.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Ascarding
+    url: https://ascarding.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: BigBossCarding
+    url: https://bigbosscarding.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: BuyDumpsCVV
+    url: https://buydumpscvv.com
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: BuyPageScript
+    url: https://buypagescript.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: CrackiansLeaks
+    url: https://crackiansleaks.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrackingPro
+    url: https://crackingpro.com
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: CrewgamBlogspot
+    url: https://crewgam.blogspot.com
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: CyberCarders
+    url: https://cybercarders.com
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: DarkPro
+    url: https://darkpro.net
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: Leech
+    url: https://leech.is
+    expectedStatusCodes:
+       - 200
+       - 403 
+  - name: LegitCarders
+    url: https://legitcarders.ws
+    expectedStatusCodes:
+       - 200
+       - 403
+  - name: UnlistedLeaks
+    url: https://unlistedleaks.su
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: VerifiedCarder
+    url: https://verifiedcarder.net
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: AccsMarket
+    url: https://accsmarket.com
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: B117
+    url: https://b117x.com
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: BpcForum
+    url: https://bpcforum.ru
+    expectedStatusCodes:
+       - 200
+       - 403    
+  - name: CrackingForum
+    url: https://crackingforum.to
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: CrackingPro
+    url: https://crackingpro.com
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: DarknetWeb
+    url: https://darknetweb.su
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: Djekxa
+    url: https://djekxa.ru
+    expectedStatusCodes:
+       - 200
+       - 403 
+  - name: Leaks
+    url: https://leaks.so
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Leech
+    url: https://leech.is 
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: PjSins
+    url: https://pjsins.com
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: ValidMarket
+    url: https://validmarket.io
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Zhyk
+    url: https://zhyk.org
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Fog
+    url: http://fog.ac
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: TrustedSellers
+    url: https://trustedsellers.ws
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: CardingWorld
+    url: https://cardingworld.ru
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: TurkHacks
+    url: https://turkhacks.com
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: YouHack
+    url: https://youhack.ru
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Level23HackTools
+    url: https://level23hacktools.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Nullc0de
+    url: https://nullc0de.su
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Coockie
+    url: https://coockie.pro
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: DeepWeb
+    url: https://deepweb.to
+    expectedStatusCodes:
+       - 200
+       - 403  
+  - name: Hack-Life
+    url: https://hack-life.net
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: FreCombo
+    url: https://frecombo.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Hard-TM
+    url: https://hard-tm.su
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Itsobr
+    url: https://itsobr.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Xakers
+    url: https://xakers.mybb.ru
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: Dark2Web
+    url: https://dark2web.xyz
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Mipped
+    url: https://mipped.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: OpenBullet Store
+    url: https://openbullet.store
+    expectedStatusCodes:
+       - 200
+       - 403   
+  - name: ComboFre
+    url: https://combofre.com
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: Combo-List
+    url: https://combo-list.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: SoftInfo
+    url: https://softinfo.org
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: z2u
+    url: https://z2u.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Fsecurity
+    url: https://fsecurity.org
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: PegasusHackTeam
+    url: https://pegasushackteam.com
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: Alphazine
+    url: https://alphazine.ru
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: Crooks
+    url: https://crooks.biz
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: HellOfHackers
+    url: https://hellofhackers.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: LegitMafia
+    url: https://legitmafia.ws
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: ScyllaForums
+    url: https://scyllaforums.com
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: TakTakGenerator
+    url: https://taktakgenerator.blogspot.com
+    expectedStatusCodes:
+       - 200
+       - 403        
+  - name: BlackBones
+    url: https://blackbones.net
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Carding CX
+    url: https://carding.cx
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Carding Store
+    url: https://carding.store
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: CardingCC
+    url: https://cardingcc.net
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CardingForum
+    url: https://cardingforum.cx
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Carding Legendz
+    url: https://cardinglegendz.com
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: Carding-Shop
+    url: https://carding-shop.net
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: CardingStore
+    url: https://cardingstore.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CardMafia
+    url: https://cardmafia.cc
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: CashOutArea
+    url: https://cashoutarea.net
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: ComboForum
+    url: https://comboforum.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrackingDrift
+    url: https://crackingdrift.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrdForum
+    url: https://crdforum.cc
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CVVShop
+    url: https://cvvshop.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: DumpsBuy
+    url: https://dumpsbuy.su
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Hacxx
+    url: https://hacxx.ys.tj
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: IhaxGlobal
+    url: https://ihaxglobal.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Instant-Hack
+    url: https://instant-hack.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: PlayerUP
+    url: https://playerup.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: ShadowCarders
+    url: https://shadowcarders.com 
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: ValidMarket
+    url: https://validmarket.io
+    expectedStatusCodes:
+       - 200
+       - 403                                             
+  - name: 365psd
+    url: https://365psd.com 
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: AllPsdTemplates
+    url: https://allpsdtemplates.com
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: Best-Hack
+    url: https://best-hack.net
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403           
+  - name: HovaTools
+    url: https://hovatools.com
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: Carders Biz
+    url: https://carders.biz
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Carders MX 
+    url: https://carders.mx
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CardingTeam
+    url: https://cardingteam.ru
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CardVilla
+    url: https://cardvilla.cc
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: ClipArt
+    url: https://clipart.me
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: ClubHydra
+    url: https://clubhydra.co
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+       - 200
+       - 403            
+  - name: CrackingShare
+    url: https://crackingshare.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrackingSoul
+    url: https://crackingsoul.com/index.php
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrackX
+    url: https://crackx.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrdPro
+    url: https://crdpro.cc
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CrimeMarket
+    url: https://crimemarket.is
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: DarkStash
+    url: https://darkstash.com
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: DarkWebMafias
+    url: https://darkwebmafias.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Dfgames
+    url: https://dfgames.com.br
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: FakeIDpsd
+    url: https://fakeidpsd.org
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: FakeTemplate
+    url: https://faketemplate.ru
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: FreePik
+    url: https://freepik.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: FreshStuff88
+    url: https://freshstuff88.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: GamingForum
+    url: https://gamingforum.to
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: HackingFather
+    url: https://hackingfather.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: HakePok
+    url: https://hakepok.ru
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: HowCC
+    url: https://howcc.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Jstash
+    url: https://jstash.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: LeakBD
+    url: https://leakbd.com
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: MPGH
+    url: https://mpgh.net
+    expectedStatusCodes:
+       - 200
+       - 403          
+  - name: NulledGG
+    url: https://nulledgg.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: NullNoss
+    url: https://nullnoss.org
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Eground
+    url: https://eground.pro
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Psdlife
+    url: https://psdlife.com
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: SpyGen
+    url: https://spy.gen.tr
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Sythe
+    url: https://sythe.org
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: TeamWorld
+    url: https://teamworld.us
+    expectedStatusCodes:
+       - 200
+       - 403      
+  - name: UsaM
+    url: https://usam.xyz
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: VerifiedShops
+    url: https://verifiedshops.cc
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: VerifPro
+    url: https://verifpro.net
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Void
+    url: https://void.to
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: LeakedWiki
+    url: https://leaked.wiki
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: ComboList
+    url: https://combolist.top
+    expectedStatusCodes:
+       - 200
+       - 403               
+  - name: AccountBot
+    url: https://accountbot.io
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CpPro
+    url: https://cpro.su
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: Cv2
+    url: https://cv2.su
+    expectedStatusCodes:
+       - 200
+       - 403       
+  - name: CvvFullzShop
+    url: https://cvvfullzshop.com
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: CvvStore
+    url: https://cvvstore.cc
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: CyberShafarat
+    url: https://cybershafarat.com
+    expectedStatusCodes:
+       - 200
+       - 403               
+  - name: EasyDeals
+    url: https://easydeals.cx 
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: ForumHashkiller
+    url: https://forum.hashkiller.io
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: LegitDumps
+    url: https://legitdumps.cc
+    expectedStatusCodes:
+       - 200
+       - 403         
+  - name: Luxecc
+    url: https://luxecc.su
+    expectedStatusCodes:
+       - 200
+       - 403               
+  - name: Pp24
+    url: https://pp24.market
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: RealAndRare
+    url: https://realandrare.store
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: RoboCheck
+    url: https://robocheck.ru
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: RondaStore
+    url: https://rondastore.vip
+    expectedStatusCodes:
+       - 200
+       - 403                       
+  - name: SkyNetZone
+    url: https://skynetzone.org
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: SwipeStore
+    url: https://swipestore.cc
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: Telegram Card1ngPlanet
+    url: https://t.me/card1ngPlanet
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: Telegram Cardinggclub
+    url: https://t.me/s/cardinggclub-Telegram
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: Telegram Freshstuff_88
+    url: https://t.me/s/freshstuff_88
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: TheFreshStuff
+    url: https://thefreshstuff.at
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: TheJavaSea
+    url: https://thejavasea.com
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: Trumps-Dumps
+    url: https://trumps-dumps.net
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: UniBlast
+    url: https://uniblast.com
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: ValidDumps
+    url: https://validumps.cc
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: Vclub Store
+    url: https://vclub.store
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: VclubShop
+    url: https://vclubshop.ru
+    expectedStatusCodes:
+       - 200
+       - 403           
+  - name: VoughtCardShop
+    url: https://voughtcardshop.online
+    expectedStatusCodes:
+       - 200
+       - 403     
+  - name: Yalelodge
+    url: https://yalelodge.cc
+    expectedStatusCodes:
+       - 200
+       - 403              
+  - name: Ziser
+    url: https://ziser.ru
+    expectedStatusCodes:
+       - 200
+       - 403             
     
 # Identification purposes on API
 user-agent: "Up-or-Down/0.1.2021 (repo: https://github.com/upptime/upptime; integration: upptime)"
 
 # Workflow schedules
 workflowSchedule:
-  responseTime: "*/10 * * * *"
-  staticSite: "*/30 * * * *"
-  summary: "0 */1 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "*/30 * * * *"
-  uptime: "*/15 * * * *"
+  uptime: "0 0 * * *"
  
 
 status-website:
