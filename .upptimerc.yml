@@ -16,8 +16,8 @@ sites:
       - 200
       - 403
     maxResponseTime: 3000
-  - name: Breach to
-    url: https://breached.to/
+  - name: Breached SV
+    url: https://breached.vc/
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
@@ -136,16 +136,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 403  
-  - name: Breached.to
-    url: https://Breached.to
-    expectedStatusCodes:
-      - 200
-      - 403 
-  - name: breached.up
-    url: https://breached.up
-    expectedStatusCodes:
-      - 200
-      - 403
   - name: CCshops
     url: https://ccshops.sale
     expectedStatusCodes:
@@ -192,7 +182,7 @@ sites:
        - 503    
   - name: Vlmi
     url: https://vlmi.ws
-    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
     expectedStatusCodes:
        - 200
        - 403
@@ -237,7 +227,7 @@ sites:
        - 403    
   - name: Altenens
     url: https://altenens.is/
-    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
     expectedStatusCodes:
        - 200
        - 403   
@@ -322,7 +312,8 @@ sites:
     __dangerous__disable_verify_host: true
     expectedStatusCodes:
        - 200
-       - 403        
+       - 403
+       - 503        
   - name: HackPortals
     url: https://hackportals.org
     expectedStatusCodes:
@@ -380,7 +371,8 @@ sites:
     url: https://crackermain.com
     expectedStatusCodes:
        - 200
-       - 403     
+       - 403
+       - 503     
   - name: DemonForums
     url: https://demonforums.net
     expectedStatusCodes:
@@ -510,7 +502,8 @@ sites:
     url: https://bpcforum.ru
     expectedStatusCodes:
        - 200
-       - 403    
+       - 403
+       - 503    
   - name: CrackingForum
     url: https://crackingforum.to
     expectedStatusCodes:
@@ -571,7 +564,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403      
+       - 403
+       - 503      
   - name: TurkHacks
     url: https://turkhacks.com
     expectedStatusCodes:
@@ -634,7 +628,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403        
+       - 403
+       - 503        
   - name: Mipped
     url: https://mipped.com
     expectedStatusCodes:
@@ -660,7 +655,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403       
+       - 403
+       - 503         
   - name: z2u
     url: https://z2u.com
     expectedStatusCodes:
@@ -676,7 +672,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403        
+       - 403
+       - 503        
   - name: Alphazine
     url: https://alphazine.ru
     expectedStatusCodes:
