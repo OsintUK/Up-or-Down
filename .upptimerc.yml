@@ -8,32 +8,34 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-    delay: 2000 # Delay of 2 seconds between sites**
+    maxResponseTime: 3000
   - name: Sinister
     url: http://sinister.ly/index.php
     expectedStatusCodes:
       - 200
       - 403
     __dangerous__disable_verify_peer: true
-    delay: 2000 # Delay of 2 seconds between sites**
+    maxResponseTime: 3000
   - name: CrackingItaly
     url: https://crackingitaly.to 
     expectedStatusCodes:
       - 200
       - 403
-    delay: 2000 # Delay of 2 seconds between sites**
+    maxResponseTime: 3000
   - name: Breach to
     url: https://breached.to/
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
       - 403
+    maxResponseTime: 3000  
   - name: Patched
     url: https://patched.to
     expectedStatusCodes:
       - 200
       - 403
     __dangerous__disable_verify_peer: true
+    maxResponseTime: 3000
   - name: CrdClub
     url: https://crdclub.su
   - name: Nohide
@@ -186,6 +188,7 @@ sites:
     expectedStatusCodes:
        - 200
        - 403
+    maxResponseTime: 3000   
   - name: lolz
     url: https://lolz.guru
     expectedStatusCodes:
@@ -197,6 +200,7 @@ sites:
     expectedStatusCodes:
        - 200
        - 403  
+    maxResponseTime: 3000   
   - name: OpenCard
     url: https://opencard.top
     expectedStatusCodes:
@@ -759,7 +763,8 @@ sites:
     url: https://comboforum.com
     expectedStatusCodes:
        - 200
-       - 403       
+       - 403
+    maxResponseTime: 3000   
   - name: CrackingDrift
     url: https://crackingdrift.to
     expectedStatusCodes:
