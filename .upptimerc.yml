@@ -1201,3 +1201,18 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"  # default
+  responseTime: "0 23 * * *"  # default
+  summary: "0 0 * * *"
+  updateTemplate: "00 00 * * *"  
+  updates: "0 4 * * *"
+  uptime: "0 9 * * *"
+
+# Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
+# Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
+# Setup CI: This workflow is triggered after you edit the configuration file, and runs alls steps: checking uptime, tracking response time, updating the README, and generating graphs
+# Summary CI: This workflow also runs once every day and updates the README of your project with a summary of the response times and generated graphs
+# Update Template CI: This workflow runs once a week on Monday at 00:00 and updates the internal code of Upptime to make sure you're always on the latest version
+# Uptime CI: This workflow runs once every morning at 09:00am and checks if the websites are up. If they are down, it creates a new issue in your repository. This same workflow also closes any issues after your websites have come back up
