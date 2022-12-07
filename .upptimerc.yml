@@ -1,7 +1,7 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
-#test1
+#LiamJones
 sites:
   - name: Cracked
     url: https://cracked.io
@@ -188,13 +188,15 @@ sites:
     url: https://lolz.guru
     expectedStatusCodes:
        - 200
-       - 403    
+       - 403
+       - 503    
   - name: Vlmi
     url: https://vlmi.ws
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403  
+       - 403
+       - 503  
     maxResponseTime: 3000   
   - name: OpenCard
     url: https://opencard.top
@@ -1194,10 +1196,10 @@ status-website:
 workflowSchedule:
   graphs: "0 0 * * *"  # default
   responseTime: "0 23 * * *"  # default
-  summary: "0 0 * * *"
-  updateTemplate: "00 00 * * *"  
-  updates: "0 4 * * *"
-  uptime: "0 9 * * *"
+  summary: "0 0 * * *"  # default
+  updateTemplate: "0 0 * * *"  # default: 00:00
+  updates: "0 4 * * *"  # default: 03:00
+  uptime: "0 12 * * *"  # default
 
 # Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
 # Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
