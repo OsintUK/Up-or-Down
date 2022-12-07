@@ -54,13 +54,13 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-    maxResponseTime: 3000  
+    maxResponseTime: 1000  
   - name: Moon
     url: http://moon.sb
     expectedStatusCodes:
       - 200
       - 403
-    maxResponseTime: 3000  
+    maxResponseTime: 1000  
   - name: Cracking
     url: https://cracking.org
     expectedStatusCodes:
