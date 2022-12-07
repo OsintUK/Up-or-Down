@@ -1179,11 +1179,6 @@ sites:
 # Identification purposes on API
 user-agent: "Up-or-Down/0.1.2021 (repo: https://github.com/upptime/upptime; integration: upptime)"
 
-# Workflow schedules
-workflowSchedule:
-  uptime: "0 0 * * *"
- 
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
