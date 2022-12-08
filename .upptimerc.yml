@@ -1185,6 +1185,8 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 workflowSchedule:
   graphs: "0 0 * * *"  # default
   responseTime: "0 23 * * *"  # default
