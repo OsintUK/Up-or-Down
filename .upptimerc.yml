@@ -32,6 +32,9 @@ sites:
     maxResponseTime: 3000
   - name: CrdClub
     url: https://crdclub.su
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Nohide
     url: https://nohide.space
     expectedStatusCodes:
@@ -47,12 +50,14 @@ sites:
     url: https://ccccc.sb
     expectedStatusCodes:
       - 200
-      - 403 
+      - 403
+    maxResponseTime: 3000
   - name: Moon
     url: http://moon.sb
     expectedStatusCodes:
       - 200
-      - 403 
+      - 403
+    maxResponseTime: 3000
   - name: Cracking
     url: https://cracking.org
     expectedStatusCodes:
