@@ -1,7 +1,7 @@
 # Change these first
 owner: OsintUK
 repo: Up-or-Down
-#LiamJones
+#LiamJones1
 sites:
   - name: Cracked
     url: https://cracked.io
@@ -91,16 +91,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  - name: OnlineCombolist.Blogsport
-    url: http://onlinecombilist.blogsport.com
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: Cwebs
-    url: https://cweb.ws
-    expectedStatusCodes:
-      - 200
-      - 403
   - name: Ufolabs
     url: https://ufolabs.net
     expectedStatusCodes:
@@ -118,11 +108,6 @@ sites:
       - 403
   - name: AcountBot
     url: https://accountbot.io
-    expectedStatusCodes:
-      - 200
-      - 403 
-  - name: Amauta
-    url: https://amauta.cc
     expectedStatusCodes:
       - 200
       - 403 
@@ -232,7 +217,7 @@ sites:
        - 403    
   - name: Altenens
     url: https://altenens.is/
-    __dangerous__disable_verify_host: true
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
        - 403   
@@ -578,10 +563,10 @@ sites:
        - 403      
   - name: YouHack
     url: https://youhack.ru
-    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
        - 403      
+    __dangerous__disable_verify_host: true   
   - name: Level23HackTools
     url: https://level23hacktools.com
     expectedStatusCodes:
@@ -627,7 +612,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403         
+       - 403
+       - 404         
   - name: Dark2Web
     url: https://dark2web.xyz
     __dangerous__disable_verify_peer: true
@@ -666,7 +652,8 @@ sites:
     url: https://z2u.com
     expectedStatusCodes:
        - 200
-       - 403        
+       - 403
+       - 500        
   - name: Fsecurity
     url: https://fsecurity.org
     expectedStatusCodes:
@@ -790,7 +777,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403       
+       - 403
+       - 404       
   - name: IhaxGlobal
     url: https://ihaxglobal.com
     expectedStatusCodes:
@@ -831,7 +819,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403           
+       - 403
+       - 503           
   - name: HovaTools
     url: https://hovatools.com
     expectedStatusCodes:
@@ -867,7 +856,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
        - 200
-       - 403            
+       - 403
+       - 503            
   - name: CrackingShare
     url: https://crackingshare.com
     expectedStatusCodes:
@@ -904,7 +894,7 @@ sites:
        - 200
        - 403       
   - name: Dfgames
-    url: https://dfgames.com.br
+    url: http://dfgames.com.br
     expectedStatusCodes:
        - 200
        - 403       
@@ -932,14 +922,16 @@ sites:
     url: https://gamingforum.to
     expectedStatusCodes:
        - 200
-       - 403      
+       - 403
+       - 503      
   - name: HackingFather
     url: https://hackingfather.com
     expectedStatusCodes:
        - 200
-       - 403       
+       - 403
+       - 503       
   - name: HakePok
-    url: https://hakepok.ru
+    url: http://hakepok.ru
     expectedStatusCodes:
        - 200
        - 403       
@@ -982,7 +974,8 @@ sites:
     url: https://psdlife.com
     expectedStatusCodes:
        - 200
-       - 403       
+       - 403
+       - 503       
   - name: SpyGen
     url: https://spy.gen.tr
     expectedStatusCodes:
@@ -1062,12 +1055,14 @@ sites:
     url: https://easydeals.cx 
     expectedStatusCodes:
        - 200
-       - 403         
+       - 403
+       - 404         
   - name: ForumHashkiller
     url: https://forum.hashkiller.io
     expectedStatusCodes:
        - 200
-       - 403         
+       - 403
+       - 503         
   - name: LegitDumps
     url: https://legitdumps.cc
     expectedStatusCodes:
@@ -1167,15 +1162,10 @@ sites:
     url: https://yalelodge.cc
     expectedStatusCodes:
        - 200
-       - 403              
-  - name: Ziser
-    url: https://ziser.ru
-    expectedStatusCodes:
-       - 200
-       - 403             
+       - 403                         
     
 # Identification purposes on API
-user-agent: "Up-or-Down/0.1.2021 (repo: https://github.com/upptime/upptime; integration: upptime)"
+user-agent: "Up-or-Down"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
