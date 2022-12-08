@@ -1,7 +1,7 @@
 url: http://moon.sb
-status: up
+status: degraded
 code: 200
-responseTime: 2892
-lastUpdated: 2022-12-08T23:17:19.246Z
+responseTime: 4807
+lastUpdated: 2022-12-08T23:29:27.896Z
 startTime: Wed Dec 07 2022 13:20:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
