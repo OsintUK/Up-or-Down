@@ -1,5 +1,7 @@
 # [📈 Live Status](https://OsintUK.github.io/Up-or-Down): <!--live status--> **🟧 Partial outage**
 
+To see the full list of forums, open the README.MD file
+
 This repository contains the open-source uptime monitor and status page for [OsintUK](https://OsintUK.github.io/Up-or-Down), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/OsintUK/Up-or-Down/workflows/Uptime%20CI/badge.svg)](https://github.com/OsintUK/Up-or-Down/actions?query=workflow%3A%22Uptime+CI%22)
