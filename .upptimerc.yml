@@ -40,6 +40,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+      - 503
     __dangerous__disable_verify_peer: true
   - name: DarkNetWeb
     url: https://darknetweb.ru
