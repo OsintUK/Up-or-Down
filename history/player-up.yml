@@ -1,7 +1,7 @@
 url: https://playerup.com
-status: up
-code: 200
-responseTime: 4032
-lastUpdated: 2023-01-06T12:28:51.403Z
+status: down
+code: 503
+responseTime: 98
+lastUpdated: 2023-01-06T23:13:25.194Z
 startTime: Wed Dec 07 2022 13:25:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
