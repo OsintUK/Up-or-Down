@@ -1,7 +1,7 @@
 url: http://sinister.ly/index.php
-status: up
-code: 200
-responseTime: 1569
-lastUpdated: 2023-10-26T23:08:25.771Z
+status: degraded
+code: 504
+responseTime: 20366
+lastUpdated: 2023-10-27T23:08:49.210Z
 startTime: 2022-11-25T21:30:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
