@@ -1,7 +1,7 @@
 url: https://leakzone.net
-status: up
-code: 200
-responseTime: 1274
-lastUpdated: 2024-08-02T23:15:43.400Z
+status: down
+code: 503
+responseTime: 755
+lastUpdated: 2024-08-03T12:30:29.163Z
 startTime: 2022-12-07T13:22:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
