@@ -1,7 +1,7 @@
 url: https://hack-life.net
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2024-12-21T23:19:43.663Z
+status: down
+code: 429
+responseTime: 138
+lastUpdated: 2024-12-22T12:37:56.011Z
 startTime: 2022-12-07T13:24:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
