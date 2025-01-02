@@ -1,7 +1,7 @@
 url: https://blackbones.net
-status: up
-code: 200
-responseTime: 1001
-lastUpdated: 2025-01-01T23:21:16.757Z
+status: down
+code: 503
+responseTime: 449
+lastUpdated: 2025-01-02T12:39:46.604Z
 startTime: 2022-12-07T13:25:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
