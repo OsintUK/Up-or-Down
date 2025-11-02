@@ -1,7 +1,7 @@
 url: https://softinfo.org
-status: up
-code: 200
-responseTime: 623
-lastUpdated: 2025-11-02T12:40:40.414Z
+status: down
+code: 502
+responseTime: 3711
+lastUpdated: 2025-11-02T23:20:09.138Z
 startTime: 2022-12-07T13:24:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
