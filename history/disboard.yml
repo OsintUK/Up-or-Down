@@ -1,7 +1,7 @@
 url: https://disboard.org
-status: up
-code: 403
-responseTime: 146
-lastUpdated: 2025-11-17T23:13:49.086Z
+status: down
+code: 500
+responseTime: 117
+lastUpdated: 2025-11-18T12:38:53.791Z
 startTime: 2022-12-07T13:21:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
