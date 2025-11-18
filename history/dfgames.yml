@@ -1,7 +1,7 @@
 url: http://dfgames.com.br
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2025-11-17T23:21:52.784Z
+status: down
+code: 500
+responseTime: 283
+lastUpdated: 2025-11-18T12:48:11.818Z
 startTime: 2022-12-07T13:26:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
