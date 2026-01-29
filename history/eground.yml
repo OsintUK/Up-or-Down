@@ -1,7 +1,7 @@
 url: https://eground.pro
-status: up
-code: 200
-responseTime: 432
-lastUpdated: 2026-01-28T23:30:22.287Z
+status: down
+code: 502
+responseTime: 867
+lastUpdated: 2026-01-29T13:06:49.539Z
 startTime: 2022-12-07T13:27:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
