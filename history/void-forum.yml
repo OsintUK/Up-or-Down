@@ -1,7 +1,7 @@
 url: https://voidforum.com
-status: up
-code: 200
-responseTime: 1342
-lastUpdated: 2026-03-06T23:25:19.087Z
+status: down
+code: 429
+responseTime: 267
+lastUpdated: 2026-03-07T12:47:59.277Z
 startTime: 2022-12-07T13:22:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
